@@ -6,8 +6,6 @@
 - My goal is to be confortable with HTML, CSS, and JavaScripts by the end of 2023.
 - By the end of 2024, my first Roblox Experience will be ready for public enjoyment!
 - 💞️ I’m looking to learn different ways of applying code to get the same results
-- 📫 I can be reached at Nadinakitten.dev@gmail.com
-
 <!---
 NadinaKitten/NadinaKitten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
